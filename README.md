@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **react, python, and flask**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/branden-reilly-0944b52b1/](https://www.linkedin.com/in/branden-reilly-0944b52b1/)
-
 - ⚡ Fun fact: **I enjoy reading a good book**
 
 <h3 align="left">Connect with me:</h3>
